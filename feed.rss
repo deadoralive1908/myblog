@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel><title>League OF Legends Blog</title><link>http://example.com/blog/index.html</link>
+<description>A blog about LoL</description><language>en</language>
+<lastBuildDate>Sat, 08 Apr 2023 15:00:09 +0300</lastBuildDate>
+<pubDate>Sat, 08 Apr 2023 15:00:09 +0300</pubDate>
+<atom:link href="http://example.com/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+What is League Of Legends
+</title><description><![CDATA[
+
+<p>League of Legends is a free to play MOBA game created in 2009 by Riot Games. It is supported by Windows and Macintosh systems.</p>
+
+<p>Tags: <a href='tag_league-of-legends.html'>league-of-legends</a>, <a href='tag_first-post.html'>first-post</a></p>
+<!-- text end -->
+]]></description><link>http://example.com/blog/what-is-league-of-legends.html</link>
+<guid>http://example.com/blog/./what-is-league-of-legends.html</guid>
+<dc:creator>Kwnstantinos Metaxas</dc:creator>
+<pubDate>Sat, 08 Apr 2023 15:00:06 +0300</pubDate></item>
+</channel></rss>
